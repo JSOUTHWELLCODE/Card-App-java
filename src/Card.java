@@ -16,25 +16,6 @@ public class Card {
 
 
 
-      //  private static int randomInt(int low, int high) {
-            // return a random number between low and high,
-
-            // including both
-      //  }
-
-      //  private void swapCards(int i, int j) {
-            // swap the ith and the jth cards in the array
-      //  }
-
-
-   // }
-
-
-
-
-
-
-
         public static final String[] RANKS = {
                 null, "Ace", "2", "3", "4", "5", "6", "7",
                 "8", "9", "10", "Jack", "Queen", "King"};
